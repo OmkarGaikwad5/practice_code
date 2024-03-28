@@ -1,0 +1,15 @@
+.parent{
+    background-color: red;
+    display: flex;
+    flex-direction : row;
+    gap: 2px;
+    flex-wrap: wrap;
+}
+
+#child{
+   
+    height:100px ;
+    width: 100px ;
+    border: 1px solid brown;
+    background-color: aqua;
+}

@@ -1,0 +1,41 @@
+@media only screen and (max-width:1200px){
+    h2{
+        color: blue;
+        font-size: 20px;
+    }
+}
+
+@media only  screen and (max-width:800px){
+    p{
+        color: cadetblue;
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width:400px){
+
+    h2{
+        color: chocolate;
+        font-size: 80px;
+    }
+
+    p{
+        color: darkmagenta;
+        font-size: 80px;
+    }
+}
+
+
+@media only screen and(min-width:100px){
+    span{
+        color: forestgreen;
+        font-size: 100px;
+    }
+}
+
+@media only screen and(min-width:300px){
+    div{
+        color: hotpink;
+        font-size: 100px;
+    }
+}
